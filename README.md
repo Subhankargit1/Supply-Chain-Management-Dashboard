@@ -16,5 +16,6 @@ This project is designed to handle and analyze data related to supply chain mana
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/supply-chain-management.git
-   cd supply-chain-management
+   git clone https://github.com/Subhankargit1/Supply-Chain-Management-Dashboard.git
+   cd Supply-Chain-Management-Dashboard
+
